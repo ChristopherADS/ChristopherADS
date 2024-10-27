@@ -46,10 +46,33 @@
 <h3 align="left"> 📌 Outras tecnologias que domino:  </h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="50" height="50">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/woocommerce/woocommerce-original-wordmark.svg" width="50" height="50"> 
   <b><b>
-    
-</div>
+ ##
+
+<h3 align="left"> Experiência de trabalho :  </h3>
+
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+
+**Estagiario em Ti - Quality Assurence/Tester** \
+[**Santander**](https://www.santander.com.br/) • Part-time \
+Linguagens & Tecnologias: `Java`, `Selenium`, `SQL`, `Cumcumber`, `Jira`, `Octane`,\
+Projetos em destaque: [Obsolecencia](https://www.santander.com.br/), [Finanças Ti - Gestão Contábil]((https://www.santander.com.br/)
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
+
+**Frot-end Developer (Jr)** \
+[**Rocketseat**](https://rocketseat.com.br/) • Contract \
+Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
+Projetos em destaque: [Ignite](), [Bootcamp]()
+<br/>
+
+<br>
+
 
 ##
+
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/11987959666)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ChristopherADS)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/christopher.windsor_/)
