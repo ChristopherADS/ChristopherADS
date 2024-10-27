@@ -50,23 +50,24 @@
 
 <h3 align="left"> Experiência de trabalho :  </h3>
 
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+Na visão geral abaixo você encontrará minhas experiências de trabalho mais recente:
 
 [<img align="left" height="94px" width="94px" alt="Santander" src="santander-logo.svg" />](https://www.santander.com.br/)
 
-**Estagiário em TI - Quality Assurance/Tester** \
-[**Santander**](https://www.santander.com.br/) • Part-time \
+**Estagiário em Ti - Quality Assurance/Tester** \
+[**Santander**](https://www.santander.com.br/) • Part-time • Desde Maio 2024 \
 Linguagens & Tecnologias: `Java`, `Selenium`, `SQL`, `Cucumber`, `Jira`, `Octane` \
 Projetos em destaque: [Obsolescência](https://www.santander.com.br/), [Finanças TI - Gestão Contábil](https://www.santander.com.br/)
 
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
+[<img align="left" height="94px" width="94px" alt="OdontoBookStore" src="OdontoBookStoreSVG.svg" />](https://odontobookstore.com.br/)
 
-**Frot-end Developer (Jr)** \
-[**Rocketseat**](https://rocketseat.com.br/) • Contract \
-Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
-Projetos em destaque: [Ignite](), [Bootcamp]()
+**Desenvolvedor WordPress** \
+[**OdontoBookStore**](https://odontobookstore.com.br/) • Fundados desde Abril 2023 \
+Linguagens & Tecnologias: `WordPress`, `WooCommerce`,`Elementor`, `MySQL`\
+Projetos em destaque: [E-commerce](https://odontobookstore.com.br/), [Api MarketPlace](https://odontobookstore.com.br/)
+
 <br/>
 
 <br>
