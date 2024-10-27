@@ -67,20 +67,23 @@ Projetos em destaque: [Obsolescência](https://www.santander.com.br/), [Finança
 [**OdontoBookStore**](https://odontobookstore.com.br/) • Fundados desde Abril 2023 \
 Linguagens & Tecnologias: `WordPress`, `WooCommerce`,`Elementor`, `MySQL`\
 Projetos em destaque: [E-commerce](https://odontobookstore.com.br/), [Api MarketPlace](https://odontobookstore.com.br/)
-
 <br/>
 
-<br>
 
+<h3 align="left">Selos/bagdes:</h3>
 
-##
+[<img align="left" height="120px" width="120px" alt="Test Agile" src="Test Agile.svg" />](https://www.credly.com/badges/25f26ff4-c8f4-47fd-8737-a02081242d7a/linked_in_profile) [<img align="left" height="120px" width="120px" alt="Test Automation" src="Test automation.svg" />](https://www.credly.com/badges/832cd0a7-d922-4e48-9790-a129c221b063/linked_in_profile)[<img align="left" height="160px" width="160px" alt="Databricks Foundation" src="Databricks Fundation.svg" />]([https://link-para-databricks-foundatio](https://credentials.databricks.com/0b122a6f-2e8b-4763-9472-03ce99cc4267#gs.gptynb)n)[<img align="left" height="160px" width="160px" alt="Lakehouse" src="Lakehouse.svg" />]([https://link-para-lakehouse](https://credentials.databricks.com/32e7eae3-dd2d-43a8-b95d-74cb7f7361ea))  
+
+<br><br><br><br><br><br>
+
+<h4 align="left">Entre em contato comigo:</h5>
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/11987959666)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ChristopherADS)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/christopher.windsor_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-souza-7a7391109/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](christopher.contatol@gmail.com) 
-
+<br>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChristopherADS/ChristopherADS/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChristopherADS/ChristopherADS/output/github-contribution-grid-snake-dark.svg">
