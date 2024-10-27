@@ -90,6 +90,9 @@ Projetos em destaque: [E-commerce](https://odontobookstore.com.br/), [Api Market
 </picture>
 
 <div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+<div align="center">
   <img src="https://profile-counter.glitch.me/ChristopherADS/count.svg?"  />
 </div> 
 <!--
