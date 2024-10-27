@@ -46,7 +46,7 @@
 <h3 align="left"> 📌 Outras tecnologias que domino:  </h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="50" height="50">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/woocommerce/woocommerce-original-wordmark.svg" width="50" height="50"> 
   <b><b>
- ##
+ 
 
 <h3 align="left"> Experiência de trabalho :  </h3>
 
