@@ -75,7 +75,7 @@ Projetos em destaque: [E-commerce](https://odontobookstore.com.br/), [Api Market
 [<img align="left" height="120px" width="120px" alt="Test Agile" src="Test Agile.svg" />](https://www.credly.com/badges/25f26ff4-c8f4-47fd-8737-a02081242d7a/linked_in_profile) [<img align="left" height="120px" width="120px" alt="Test Automation" src="Test automation.svg" />](https://www.credly.com/badges/832cd0a7-d922-4e48-9790-a129c221b063/linked_in_profile)[<img align="left" height="160px" width="160px" alt="Databricks Foundation" src="Databricks Fundation.svg" />]([https://link-para-databricks-foundatio](https://credentials.databricks.com/0b122a6f-2e8b-4763-9472-03ce99cc4267#gs.gptynb)n)[<img align="left" height="160px" width="160px" alt="Lakehouse" src="Lakehouse.svg" />]([https://link-para-lakehouse](https://credentials.databricks.com/32e7eae3-dd2d-43a8-b95d-74cb7f7361ea))  
 
 <br><br><br><br><br><br>
-
+#
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/11987959666)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ChristopherADS)
