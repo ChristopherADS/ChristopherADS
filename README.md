@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">✨ Iniciei meus estudos em tecnologia a partir de Junho 2022 ...<br>📚  Atualmente estou aprofundando meus conhecimentos em automação de testes<br>🎯 Tornar-me um Engenheiro de Automação competente e aprimorar minhas habilidades<br>🎲 Um fato curioso, sou formado em aviação civil! ✈<br>🌱 Eu sou um Eterno aprendiz, fique a vontade a entrar em contato comigo ! <br>☄Em um futuro próximo quero iniciar uma tese de Mestrado em tecnologia ;</h5>
+<h5 align="left">✨ Iniciei meus estudos em tecnologia a partir de Junho 2022 ...<br>📚  Atualmente estou aprofundando meus conhecimentos em automação de testes....<br>🎯 Tornar-me um Engenheiro de Automação competente e aprimorar minhas habilidades...<br>🎲 Um fato curioso, sou formado em aviação civil!<br>🌱 Eu sou um Eterno aprendiz, fique a vontade a entrar em contato comigo ! <br>☄Em um futuro próximo quero iniciar uma tese de Mestrado em tecnologia ;</h5>
 
 <h4 align="left">GitHub Stats:</h5>
 <div>
