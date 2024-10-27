@@ -52,12 +52,13 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Santander" src="santander-logo.svg" />](https://www.santander.com.br/)
 
-**Estagiario em Ti - Quality Assurence/Tester** \
+**Estagiário em TI - Quality Assurance/Tester** \
 [**Santander**](https://www.santander.com.br/) • Part-time \
-Linguagens & Tecnologias: `Java`, `Selenium`, `SQL`, `Cumcumber`, `Jira`, `Octane`,\
-Projetos em destaque: [Obsolecencia](https://www.santander.com.br/), [Finanças Ti - Gestão Contábil]((https://www.santander.com.br/)
+Linguagens & Tecnologias: `Java`, `Selenium`, `SQL`, `Cucumber`, `Jira`, `Octane` \
+Projetos em destaque: [Obsolescência](https://www.santander.com.br/), [Finanças TI - Gestão Contábil](https://www.santander.com.br/)
+
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
