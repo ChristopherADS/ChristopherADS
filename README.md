@@ -64,7 +64,7 @@ Projetos em destaque: [Obsolescência](https://www.santander.com.br/), [Finança
 [<img align="left" height="94px" width="94px" alt="OdontoBookStore" src="OdontoBookStoreSVG.svg" />](https://odontobookstore.com.br/)
 
 **Desenvolvedor WordPress** \
-[**OdontoBookStore**](https://odontobookstore.com.br/) • Fundados desde Abril 2023 \
+[**OdontoBookStore**](https://odontobookstore.com.br/) • Fundador desde Abril 2023 \
 Linguagens & Tecnologias: `WordPress`, `WooCommerce`,`Elementor`, `MySQL`\
 Projetos em destaque: [E-commerce](https://odontobookstore.com.br/), [Api MarketPlace](https://odontobookstore.com.br/)
 <br/>
