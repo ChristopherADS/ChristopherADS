@@ -2,7 +2,9 @@
 
 <h2 align="left">Sobre mim</h2>
 
-<p align="left">Meu nome é Christopher, tenho 31 anos, moro em São Paulo, Capital, na região de Santo Amaro, e estou estagiando no Banco Santander como Quality Assurance, também conhecido como Tester! <br>- Estou desenvolvendo tanto testes manuais quanto automação em aplicações web com Java.</p>
+<p align="left">Meu nome é Christopher, tenho 31 anos, moro em São Paulo, Capital, na região de Santo Amaro, e estou estagiando no Banco Santander como Quality Assurance, também conhecido como Tester!- Estou desenvolvendo tanto testes manuais quanto automação em aplicações web com Java.</p>
+Sou o Fundador da Loja Virtual de Venda de Livros Odontologicos e Instrumentais Cirurgicos, Odonto Book Store.
+
 
 <h5 align="left">
 ✨ Iniciei meus estudos em tecnologia a partir de Junho de 2022 ...<br>
@@ -83,11 +85,10 @@ Projetos em destaque: [Obsolescência](https://www.santander.com.br/), [Finança
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="OdontoBookStore" src="OdontoBookStoreSVG.svg" />](https://odontobookstore.com.br/)
-
-**DOdontoBookStore**](https://odontobookstore.com.br/) • Fundador desde Abril 2023 \
+**OdontoBookStore - Desenvolvedor Web **<br>
+[**Odonto Book Store**](https://odontobookstore.com.br/) • Fundador desde Abril 2023 \
 Linguagens & Tecnologias: `WordPress`, `WooCommerce`,`Elementor`, `MySQL`\
-Projetos em destaque: [E-commerce](https://odontobookstore.com.br/), [Api MarketPlace](https://odontobookstore.com.br/) [Elementor PRO](https://odontobookstore.com.br/)
-<br/>Desenvolvedor Web - WordPress** 
+Projetos em destaque: [E-commerce](https://odontobookstore.com.br/), [Api MarketPlace](https://odontobookstore.com.br/), [Elementor PRO](https://odontobookstore.com.br/)
 <h3 align="left">Selos/Badges:</h3>
 <div>
   <a href="https://www.credly.com/badges/25f26ff4-c8f4-47fd-8737-a02081242d7a/linked_in_profile"><img align="left" height="100" width="100" alt="Test Agile" src="Test Agile.svg" /></a>
