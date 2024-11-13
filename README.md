@@ -77,7 +77,7 @@ Na visão geral abaixo você encontrará minhas experiências de trabalho mais r
 
 [<img align="left" height="94px" width="94px" alt="Santander" src="santander-logo.svg" />](https://www.santander.com.br/)
 
-**Estagiário em Ti - Quality Assurance/Tester** \
+**Estagiário em Ti - Qualidade de Software Web - Tester** \
 [**Santander**](https://www.santander.com.br/) • Part-time • Desde Maio 2024 \
 Linguagens & Tecnologias: `Java`, `Selenium`, `SQL`, `Cucumber`, `Jira`, `Octane` \
 Projetos em destaque: [Obsolescência](https://www.santander.com.br/), [Finanças TI - Gestão Contábil](https://www.santander.com.br/)
@@ -85,7 +85,8 @@ Projetos em destaque: [Obsolescência](https://www.santander.com.br/), [Finança
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="OdontoBookStore" src="OdontoBookStoreSVG.svg" />](https://odontobookstore.com.br/)
-**OdontoBookStore - Desenvolvedor Web **<br>
+
+**OdontoBookStore - Desenvolvedor Web**<br>
 [**Odonto Book Store**](https://odontobookstore.com.br/) • Fundador desde Abril 2023 \
 Linguagens & Tecnologias: `WordPress`, `WooCommerce`,`Elementor`, `MySQL`\
 Projetos em destaque: [E-commerce](https://odontobookstore.com.br/), [Api MarketPlace](https://odontobookstore.com.br/), [Elementor PRO](https://odontobookstore.com.br/)
