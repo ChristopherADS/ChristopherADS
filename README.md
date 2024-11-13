@@ -69,8 +69,25 @@
 
 <h3 align="left">Experiência de Trabalho:</h3>
 
-<!-- Lista de Experiências -->
+<h3 align="left"> Experiência de trabalho :  </h3>
 
+Na visão geral abaixo você encontrará minhas experiências de trabalho mais recente:
+
+[<img align="left" height="94px" width="94px" alt="Santander" src="santander-logo.svg" />](https://www.santander.com.br/)
+
+**Estagiário em Ti - Quality Assurance/Tester** \
+[**Santander**](https://www.santander.com.br/) • Part-time • Desde Maio 2024 \
+Linguagens & Tecnologias: `Java`, `Selenium`, `SQL`, `Cucumber`, `Jira`, `Octane` \
+Projetos em destaque: [Obsolescência](https://www.santander.com.br/), [Finanças TI - Gestão Contábil](https://www.santander.com.br/)
+
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="OdontoBookStore" src="OdontoBookStoreSVG.svg" />](https://odontobookstore.com.br/)
+
+**DOdontoBookStore**](https://odontobookstore.com.br/) • Fundador desde Abril 2023 \
+Linguagens & Tecnologias: `WordPress`, `WooCommerce`,`Elementor`, `MySQL`\
+Projetos em destaque: [E-commerce](https://odontobookstore.com.br/), [Api MarketPlace](https://odontobookstore.com.br/) [Elementor PRO](https://odontobookstore.com.br/)
+<br/>Desenvolvedor Web - WordPress** 
 <h3 align="left">Selos/Badges:</h3>
 <div>
   <a href="https://www.credly.com/badges/25f26ff4-c8f4-47fd-8737-a02081242d7a/linked_in_profile"><img align="left" height="100" width="100" alt="Test Agile" src="Test Agile.svg" /></a>
