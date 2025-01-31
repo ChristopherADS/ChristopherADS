@@ -3,7 +3,7 @@
 <h2 align="left">Sobre mim</h2>
 
 <p align="left">Meu nome é Christopher, tenho 31 anos, moro em São Paulo, Capital, na região de Santo Amaro, e estou estagiando no Banco Santander como Quality Assurance, também conhecido como Tester!- Estou desenvolvendo tanto testes manuais quanto automação em aplicações web com Java.</p>
-Sou o Fundador da Loja Virtual de Venda de Livros Odontologicos e Instrumentais Cirurgicos, Odonto Book Store.
+Sou o Fundador da Loja Virtual de Venda de Livros Odontologicos, Odonto Book Store.
 
 
 <h5 align="left">
