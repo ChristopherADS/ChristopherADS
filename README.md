@@ -12,7 +12,7 @@ Sou o Fundador da Loja Virtual de Venda de Livros Odontologicos, Odonto Book Sto
 🎯 Tornar-me um Engenheiro de Automação competente e aprimorar minhas habilidades...<br>
 🎲 Um fato curioso, sou formado em aviação civil!<br>
 🌱 Eu sou um eterno aprendiz, fique à vontade para entrar em contato comigo! <br>
-☄ Em um futuro próximo quero iniciar uma tese de Mestrado em tecnologia.
+☄ Em um futuro próximo quero me tornar um especialista em automação de testes e qualidade de softwares.
 </h5>
 
 <h4 align="left">GitHub Stats:</h4>
